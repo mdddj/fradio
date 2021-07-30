@@ -131,7 +131,7 @@ class FRadio<T> extends StatefulWidget {
     Key? key,
     required this.value,
     required this.groupValue,
-    required this.onChanged,
+    this.onChanged,
     this.width = 27,
     this.height = 27,
     this.enable = true,
