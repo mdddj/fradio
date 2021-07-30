@@ -2,7 +2,7 @@ import 'dart:math';
 
 import 'package:fbutton/fbutton.dart';
 import 'package:flutter/material.dart';
-import 'package:fradio/fradio.dart';
+import 'package:fradio/fradio_nullsafety.dart';
 
 void main() => runApp(MyApp());
 
