@@ -24,7 +24,7 @@ class FRadio<T> extends StatefulWidget {
   /// 当 [FRadio] 被变为选中时会回调
   ///
   /// Callback when [FRadio] is selected
-  final ValueChanged<T>? onChanged;
+  final ValueChanged<T?>? onChanged;
 
   /// 是否可用。不可用的 [FRadio] 将无法通过点击改变当前状态。
   /// 通过 [disableNormal] 和 [disableSelected] 可以自定义不可用状态下的样式。

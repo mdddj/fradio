@@ -1,6 +1,6 @@
 name: fradio_nullsafety
 description: A radio component suitable for almost any radio scenario. You will like it.
-version: 2.0.1
+version: 2.0.2
 homepage: https://github.com/Fliggy-Mobile/fradio
 
 environment:
